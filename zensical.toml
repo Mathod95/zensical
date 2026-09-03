@@ -15,8 +15,8 @@ nav = [
   { "Markdown in 5min" = "markdown.md" },
 ]
 
-# extra_css = ["stylesheets/extra.css"]
-# extra_javascript = ["javascripts/extra.js"]
+extra_css = ["stylesheets/toggle-sidebar.css"]
+extra_javascript = ["javascripts/toggle-sidebar.js"]
 
 [project.theme]
 # variant = "classic"
