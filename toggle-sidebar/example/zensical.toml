@@ -1,0 +1,3 @@
+[project]
+extra_css = ["stylesheets/toggle-sidebar.css"]
+extra_javascript = ["javascripts/toggle-sidebar.js"]

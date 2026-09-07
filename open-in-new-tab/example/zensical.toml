@@ -1,0 +1,3 @@
+[project]
+extra_css = ["stylesheets/open-in-new-tab.css"]
+extra_javascript = ["javascripts/open-in-new-tab.js"]

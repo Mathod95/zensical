@@ -1,0 +1,11 @@
+[project]
+extra_css = ["stylesheets/codeBlock.css"]
+extra_javascript = ["javascripts/codeBlock.js"]
+
+[project.markdown_extensions]
+attr_list = {}
+pymdownx.highlight.anchor_linenums = true
+pymdownx.highlight.line_spans = "__span"
+pymdownx.highlight.pygments_lang_class = true
+pymdownx.inlinehilite = {}
+pymdownx.superfences = {}

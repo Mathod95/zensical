@@ -1,0 +1,3 @@
+[project]
+extra_css = ["stylesheets/placeholders.css"]
+extra_javascript = ["javascripts/placeholders.js"]

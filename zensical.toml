@@ -13,10 +13,17 @@ edit_uri = "edit/main/docs/"
 nav = [
   { "Get started" = "index.md" },
   { "Markdown in 5min" = "markdown.md" },
+  { "Fonctionnalités" = [
+    { "Toggle sidebar" = "toggle-sidebar.md" },
+    { "On this page" = "on-this-page.md" },
+    { "CodeBlock" = "codeblock.md" },
+    { "open-in-new-tab" = "open-in-new-tab.md" },
+    { "Placeholders" = "variables.md" },
+  ] },
 ]
 
-extra_css = ["stylesheets/toggle-sidebar.css"]
-extra_javascript = ["javascripts/toggle-sidebar.js"]
+extra_css = ["stylesheets/toggle-sidebar.css", "stylesheets/codeBlock.css", "stylesheets/open-in-new-tab.css", "stylesheets/placeholders.css"]
+extra_javascript = ["javascripts/toggle-sidebar.js", "javascripts/codeBlock.js", "javascripts/open-in-new-tab.js", "javascripts/placeholders.js"]
 
 [project.theme]
 # variant = "classic"
