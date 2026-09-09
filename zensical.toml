@@ -11,8 +11,7 @@ repo_name = "Mathod95/zensical"
 edit_uri = "edit/main/docs/"
 
 nav = [
-  { "Get started" = "index.md" },
-  { "Markdown in 5min" = "markdown.md" },
+  { "Accueil" = "index.md" },
   { "Fonctionnalités" = [
     { "Toggle sidebar" = "toggle-sidebar.md" },
     { "On this page" = "on-this-page.md" },
